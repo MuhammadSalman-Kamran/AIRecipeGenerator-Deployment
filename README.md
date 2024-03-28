@@ -74,3 +74,15 @@ The AI Recipe Generator is a fun and creative tool that generates cooking recipe
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+
+# After Deployment on Huggingface Spaces
+
+![alt text](https://github.com/MuhammadSalman-Kamran/AIRecipeGenerator-Deployment/blob/main/1st%20deploy.jpg)
+
+---
+
+![alt text](https://github.com/MuhammadSalman-Kamran/AIRecipeGenerator-Deployment/blob/main/2nd%20deploy.jpg)
+
+---
+
+![alt text](https://github.com/MuhammadSalman-Kamran/AIRecipeGenerator-Deployment/blob/main/3rd%20deploy.jpg)
